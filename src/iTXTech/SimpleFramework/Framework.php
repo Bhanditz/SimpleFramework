@@ -36,9 +36,9 @@ use iTXTech\SimpleFramework\Util\Util;
 
 class Framework implements OnCompletionListener{
 	public const PROG_NAME = "SimpleFramework";
-	public const PROG_VERSION = "2.1.0-beta.1";
-	public const API_LEVEL = 6;
-	public const CODENAME = "Navi";
+	public const PROG_VERSION = "2.2.0-SNAPSHOT";
+	public const API_LEVEL = 7;
+	public const CODENAME = "Kassandra";
 
 	/** @var Framework */
 	private static $instance = null;
